@@ -1,6 +1,6 @@
 # logos
 
-<img src="greenie_light.svg" alt="green heron" width=300px height=300px>
+<img src="greenie.svg" alt="green heron" width=300px height=300px>
 <img src="jaeger.svg" alt="jaeger" width=300px height=300px>
 <img src="minkelogo_circle.svg" alt="minke whale" width=300px height=300px>
 <img src="baleen2_bw.svg" alt="baleen" width=300px height=300px>
