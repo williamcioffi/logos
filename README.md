@@ -6,5 +6,7 @@
 <img src="baleen2_bw.svg" alt="minke whale" width=200px height=200px>
 <img src="stuper2_bw.svg" alt="minke whale" width=200px height=200px>
 <img src="fridgebot_bw.svg" alt="minke whale" width=200px height=200px>
+<img src="gma.svg" alt="minke whale" width=200px height=200px>
+<img src="gma_clipped.svg" alt="minke whale" width=200px height=200px>
 
 
