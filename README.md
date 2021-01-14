@@ -9,3 +9,6 @@
 <img src="pmow.svg" alt="pmow" width=300px height=300px>
 <img src="gma_clipped.svg" alt="pdub" width=300px height=300px>
 <img src="zca.svg" alt="zca" width=300px height=300px>
+<img src="solid_zc.svg" alt="zca" width=300px height=300px>
+
+
